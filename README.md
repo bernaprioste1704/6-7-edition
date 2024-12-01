@@ -57,7 +57,7 @@ Course materials for editions 6th and 7th of this course at Nova FCT which start
 - [bayesian optimization example](https://github.com/bayesian-optimization/BayesianOptimization/blob/master/examples/visualization.ipynb)
 - [auto ml](https://github.com/samsung-ai-course/6-7-edition/blob/main/Supervised%20Learning/wine_auto_ml.ipynb)
 ### More classes and missing classes
-- [slides](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+- [slides](https://github.com/samsung-ai-course/6-7-edition/blob/main/Supervised%20Learning/More%20classes%20and%20missing%20classes.pdf)
 - [multi-class example](https://github.com/samsung-ai-course/6-7-edition/blob/main/Supervised%20Learning/multi_class_examples.ipynb)
 - [multi-class exercises obesity](https://github.com/samsung-ai-course/6-7-edition/blob/main/Supervised%20Learning/Multi_Class_Prediction_of_Obesity_Risk.ipynb)
 - [decision tree example with iris](https://github.com/samsung-ai-course/6-7-edition/blob/main/Supervised%20Learning/decision_tree_iris.ipynb)
