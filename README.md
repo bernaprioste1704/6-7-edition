@@ -62,3 +62,8 @@ Course materials for editions 6th and 7th of this course at Nova FCT which start
 - [multi-class exercises obesity](https://github.com/samsung-ai-course/6-7-edition/blob/main/Supervised%20Learning/Multi_Class_Prediction_of_Obesity_Risk.ipynb)
 - [decision tree example with iris](https://github.com/samsung-ai-course/6-7-edition/blob/main/Supervised%20Learning/decision_tree_iris.ipynb)
 - [decision tree exercises with financial sentiments](https://github.com/samsung-ai-course/6-7-edition/blob/main/Supervised%20Learning/decision_tree_sentiments.ipynb)
+
+### Ensembled and boosting
+- slides
+- [Ensembled and boosting examples notebook](https://colab.research.google.com/github/samsung-ai-course/6-7-edition/blob/main/Supervised%20Learning/Ensembles%20and%20Boosting/Coding_examples_notebook.ipynb)
+- [breast cancer exercise](https://colab.research.google.com/github/samsung-ai-course/6-7-edition/blob/main/Supervised%20Learning/Ensembles%20and%20Boosting/Exercise_notebook_final.ipynb) 
