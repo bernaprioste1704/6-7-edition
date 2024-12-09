@@ -1,7 +1,6 @@
 # Editions 6th and 7th
 Course materials for editions 6th and 7th of this course at Nova FCT which started on October 2024
 
-# Materials so far
 
 ## Introduction - Basic Machine Learning Models
 
@@ -67,3 +66,12 @@ Course materials for editions 6th and 7th of this course at Nova FCT which start
 - slides
 - [Ensembled and boosting examples notebook](https://colab.research.google.com/github/samsung-ai-course/6-7-edition/blob/main/Supervised%20Learning/Ensembles%20and%20Boosting/Coding_examples_notebook.ipynb)
 - [breast cancer exercise](https://colab.research.google.com/github/samsung-ai-course/6-7-edition/blob/main/Supervised%20Learning/Ensembles%20and%20Boosting/Exercise_notebook_final.ipynb) 
+
+
+## Unsupervised Learning
+### Intro, Recap and a bit more
+
+- slides
+- [Kmeans Intro](https://colab.research.google.com/github/samsung-ai-course/6-7-edition/blob/main/Unsupervised%20Learning/clustering/K-means-Intro.ipynb)
+- [Kmeans with real data](https://colab.research.google.com/github/samsung-ai-course/6-7-edition/blob/main/Unsupervised%20Learning/clustering/K-means-real-data.ipynb)
+- [Dbscan & Kmenas ](https://colab.research.google.com/github/samsung-ai-course/6-7-edition/blob/main/Unsupervised%20Learning/clustering/dbscan-kmeans.ipynb)
