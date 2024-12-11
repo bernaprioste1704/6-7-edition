@@ -74,4 +74,6 @@ Course materials for editions 6th and 7th of this course at Nova FCT which start
 - slides
 - [Kmeans Intro](https://colab.research.google.com/github/samsung-ai-course/6-7-edition/blob/main/Unsupervised%20Learning/clustering/K-means-Intro.ipynb)
 - [Kmeans with real data](https://colab.research.google.com/github/samsung-ai-course/6-7-edition/blob/main/Unsupervised%20Learning/clustering/K-means-real-data.ipynb)
-- [Dbscan & Kmenas ](https://colab.research.google.com/github/samsung-ai-course/6-7-edition/blob/main/Unsupervised%20Learning/clustering/dbscan-kmeans.ipynb)
+- [Dbscan & Kmeans ](https://colab.research.google.com/github/samsung-ai-course/6-7-edition/blob/main/Unsupervised%20Learning/clustering/dbscan-kmeans.ipynb)
+
+- [Houston Restaurants exercise](https://colab.research.google.com/github/samsung-ai-course/6-7-edition/blob/main/Unsupervised%20Learning/clustering/exercise_notebook.ipynb)
