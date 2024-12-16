@@ -63,21 +63,27 @@ Course materials for editions 6th and 7th of this course at Nova FCT which start
 - [decision tree exercises with financial sentiments](https://github.com/samsung-ai-course/6-7-edition/blob/main/Supervised%20Learning/decision_tree_sentiments.ipynb)
 
 ### Ensembled and boosting
-- slides
+- [slides](https://github.com/samsung-ai-course/6-7-edition/blob/main/Supervised%20Learning/Ensembles%20and%20Boosting/Supervised%20Learning%20-%20%20Tree%20and%20Ensemble%20algorithms.pdf)
+
 - [Ensembled and boosting examples notebook](https://colab.research.google.com/github/samsung-ai-course/6-7-edition/blob/main/Supervised%20Learning/Ensembles%20and%20Boosting/Coding_examples_notebook.ipynb)
-- [breast cancer exercise](https://colab.research.google.com/github/samsung-ai-course/6-7-edition/blob/main/Supervised%20Learning/Ensembles%20and%20Boosting/Exercise_notebook_final.ipynb) 
+- [breast cancer exercise](https://colab.research.google.com/github/samsung-ai-course/6-7-edition/blob/main/Supervised%20Learning/Ensembles%20and%20Boosting/Exercise_notebook_final.ipynb)
+
+### Decision Threshold and Fairness
+
+- [Learning Notebook](https://colab.research.google.com/github/samsung-ai-course/6-7-edition/blob/main/Supervised%20Learning/Decision%20Threshold%20%26%20Bias/Learning%20Notebook.ipynb)
 
 
 ## Unsupervised Learning
+- [slides](https://github.com/samsung-ai-course/6-7-edition/blob/main/Unsupervised%20Learning/Unsupervised%20Learning%20Samsung%20AI%20Course.pdf)
+
 ### Clustering
-- slides
+
 - [Kmeans Intro](https://colab.research.google.com/github/samsung-ai-course/6-7-edition/blob/main/Unsupervised%20Learning/clustering/K-means-Intro.ipynb)
 - [Kmeans with real data](https://colab.research.google.com/github/samsung-ai-course/6-7-edition/blob/main/Unsupervised%20Learning/clustering/K-means-real-data.ipynb)
 - [Dbscan & Kmeans ](https://colab.research.google.com/github/samsung-ai-course/6-7-edition/blob/main/Unsupervised%20Learning/clustering/dbscan-kmeans.ipynb)
 
 - [Houston Restaurants exercise](https://colab.research.google.com/github/samsung-ai-course/6-7-edition/blob/main/Unsupervised%20Learning/clustering/exercise_notebook.ipynb)
 
-## Unsupervised Learning
 ### Principal component analysis
 - [Principal Component Analysis](https://colab.research.google.com/github/samsung-ai-course/6-7-edition/blob/main/Unsupervised%20Learning/Dimensionality%20reduction/PCA.ipynb)
 
