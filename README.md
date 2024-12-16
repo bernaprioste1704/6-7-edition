@@ -71,7 +71,7 @@ Course materials for editions 6th and 7th of this course at Nova FCT which start
 ### Decision Threshold and Fairness
 
 - [Learning Notebook](https://colab.research.google.com/github/samsung-ai-course/6-7-edition/blob/main/Supervised%20Learning/Decision%20Threshold%20%26%20Bias/Learning%20Notebook.ipynb)
-- [Exercise Notebook](https://colab.research.google.com/github/samsung-ai-course/6-7-edition/blob/main/Supervised%20Learning/Decision%20Threshold%20%26%20Bias/Exercises%20Notebook.ipynb)
+- [Exercise Notebook](https://colab.research.google.com/github/samsung-ai-course/6-7-edition/blob/main/Supervised%20Learning/Decision%20Threshold%20%26%20Bias/Exercise%20Notebook.ipynb)
 
 
 ## Unsupervised Learning
