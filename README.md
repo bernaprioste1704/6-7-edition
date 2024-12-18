@@ -90,3 +90,6 @@ Course materials for editions 6th and 7th of this course at Nova FCT which start
 - [Principal Component Analysis](https://colab.research.google.com/github/samsung-ai-course/6-7-edition/blob/main/Unsupervised%20Learning/Dimensionality%20reduction/PCA.ipynb)
 
 - [Exercise notebook](https://colab.research.google.com/github/samsung-ai-course/6-7-edition/blob/main/Unsupervised%20Learning/Dimensionality%20reduction/Exercise_notebook.ipynb)
+
+# Hackthon Classification
+- [6th edition](https://colab.research.google.com/github/samsung-ai-course/6-7-edition/blob/main/Hackthon%20classification/6h%20edition/hackthon.ipynb)
