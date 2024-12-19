@@ -93,3 +93,6 @@ Course materials for editions 6th and 7th of this course at Nova FCT which start
 
 # Hackthon Classification
 - [6th edition](https://colab.research.google.com/github/samsung-ai-course/6-7-edition/blob/main/Hackthon%20classification/6h%20edition/hackthon.ipynb)
+
+
+- [7th edition](https://colab.research.google.com/github/samsung-ai-course/6-7-edition/blob/main/Hackthon%20classification/7th%20edition/hackthon7th.ipynb)
