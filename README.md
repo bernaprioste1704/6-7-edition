@@ -100,4 +100,4 @@ Course materials for editions 6th and 7th of this course at Nova FCT which start
 - [Learning Notebook: Deep Learning Intuition as Basis Regression](https://colab.research.google.com/github/samsung-ai-course/6-7-edition/blob/main/Intro%20to%20Deep%20Learning/Deep%20Learning%20as%20Basis%20Regression%20-%20Learning%20Notebook.ipynb)
 - [Edition 6 PDFs - board](https://github.com/samsung-ai-course/6-7-edition/tree/main/Intro%20to%20Deep%20Learning/Edition%206)
 - [Edition 7 PDFs - board (ToDo)]()
-- [Building Neural Networks from Scratch]([https://github.com/](https://colab.research.google.com/github/)samsung-ai-course/6-7-edition/blob/main/Intro%20to%20Deep%20Learning/Building%20Neural%20Networks%20from%20Scratch/Computational%20Graph%20%26%20Micrograd.ipynb)
+- [Building Neural Networks from Scratch](https://github.com/](https://colab.research.google.com/github/)samsung-ai-course/6-7-edition/blob/main/Intro%20to%20Deep%20Learning/Building%20Neural%20Networks%20from%20Scratch/Computational%20Graph%20%26%20Micrograd.ipynb)
